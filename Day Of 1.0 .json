@@ -1,0 +1,2993 @@
+{
+    "month": [
+        "januar",
+        "februar",
+        "märz",
+        "april",
+        "mai",
+        "juni",
+        "juli",
+        "august",
+        "september",
+        "oktober",
+        "november",
+        "dezember"
+    ],
+
+    "januar": {
+        "1": [
+            {
+				"name": "Tag des Glückschweins",
+				"beschreibung": "Der 1. Januar ist traditionell ein Datum, an dem man Glücksbringer verschenkt.",
+				"ort": "🇩🇪",
+				"art": "National"
+            }
+        ],
+        "2": [
+            {
+				"name": "Science Fiction Tag",
+				"beschreibung": "Happy Birthday Isaac Asimov. Zu seinen Ehren feiern die USA den  2. Januar als ihren nationalen Science-Fiction-Tag (engl. National Science Fiction Day).",
+				"ort": "🇺🇸",
+				"art": "National"
+            }
+        ],
+        "3": [
+            {
+				"name": "Feiertag des Schlafes",
+				"beschreibung": "Das neue Jahr ist gerade mal drei Tage alt und schon dürften nicht wenige Leute das Gefühl haben, Erholung von der stressigen Weihnachtszeit, der nervigen Verwandtschaft und dem Trubel des Jahreswechsels zu brauchen.",
+				"ort": "🇺🇸",
+				"art": "National"
+            }
+        ],
+        "4": [
+            {
+				"name": "Tag der Belanglosigkeiten",
+				"beschreibung": "beschreibung 19",
+				"ort": "🇺🇸",
+				"art": "National"
+            }
+        ],
+        "5": [
+            {
+				"name": "Tag der Schlagsahne",
+				"beschreibung": "beschreibung 20",
+				"ort": "🇺🇸",
+				"art": "National"
+            }
+        ],
+        "6": [
+            {
+				"name": "Tag der Frau Holle",
+				"beschreibung": "beschreibung 21",
+				"ort": "🇺🇸",
+				"art": "National"
+            }
+        ],
+        "7": [
+            {
+				"name": "Furz-Tag",
+				"beschreibung": "beschreibung 19",
+				"ort": "🇺🇸",
+				"art": "National"
+            }
+        ],
+        "8": [
+            {
+				"name": "Tag des Schaumbads",
+				"beschreibung": "beschreibung 20",
+				"ort": "🇺🇸",
+				"art": "National"
+            }
+        ],
+        "9": [
+            {
+				"name": "Spiel Gott-Tag",
+				"beschreibung": "beschreibung 21",
+				"ort": "🇺🇸",
+				"art": "National"
+            }
+        ],
+        "10": [
+            {
+				"name": "Tag der Blockflöte",
+				"beschreibung": "beschreibung 19",
+				"ort": "🇩🇪",
+				"art": "Bundesweit"
+            }
+        ],
+        "11": [
+            {
+				"name": "Tag der Milch",
+				"beschreibung": "beschreibung 20",
+				"ort": "🇺🇸",
+				"art": "National"
+            }
+        ],
+        "12": [
+            {
+				"name": "Küsse-Rothaarige-Tag",
+				"beschreibung": "beschreibung 21",
+				"ort": "🌍",
+				"art": "International"
+            }
+        ],
+        "13": [
+            {
+				"name": "Tag der Aufkleber",
+				"beschreibung": "beschreibung 19",
+				"ort": "🇺🇸",
+				"art": "National"
+            }
+        ],
+        "14": [
+            {
+				"name": "Welttag der Logik",
+				"beschreibung": "beschreibung 20",
+				"ort": "🌍",
+				"art": "International"
+            }
+        ],
+        "15": [
+            {
+				"name": "Internationaler Fetisch Tag",
+				"beschreibung": "beschreibung 21",
+				"ort": "🌍",
+				"art": "International"
+            }
+        ],
+        "16": [
+            {
+				"name": "Tag der scharfen Gerichte",
+				"beschreibung": "beschreibung 19",
+				"ort": "🌍",
+				"art": "International"
+            }
+        ],
+        "17": [
+            {
+				"name": "World Snow Day",
+				"beschreibung": "beschreibung 20",
+				"ort": "🌍",
+				"art": "International"
+            }
+        ],
+        "18": [
+            {
+				"name": "Winnie-Puuh-Tag",
+				"beschreibung": "beschreibung 21",
+				"ort": "🌍",
+				"art": "International"
+            }
+        ],
+        "19": [
+            {
+				"name": "Welt-Quark-Tag",
+				"beschreibung": "beschreibung 19",
+				"ort": "🌍",
+				"art": "International"
+            }
+        ],
+        "20": [
+            {
+				"name": "Tag der Pinguine",
+				"beschreibung": "beschreibung 20",
+				"ort": "🇺🇸",
+				"art": "National"
+            }
+        ],
+        "21": [
+            {
+				"name": "Internationaler Jogginghosentag",
+				"beschreibung": "beschreibung 21",
+				"ort": "🌍",
+				"art": "International"
+            }
+        ],
+        "22": [
+            {
+				"name": "Tag der scharfen Saucen",
+				"beschreibung": "beschreibung 19",
+				"ort": "🇺🇸",
+				"art": "National"
+            }
+        ],
+        "23": [
+            {
+				"name": "Tag des Fußvermessens",
+				"beschreibung": "beschreibung 20",
+				"ort": "🇺🇸",
+				"art": "National"
+            }
+        ],
+        "24": [
+            {
+				"name": "Ehrentag der Bierdose",
+				"beschreibung": "beschreibung 21",
+				"ort": "🇺🇸",
+				"art": "National"
+            }
+        ],
+        "25": [
+            {
+				"name": "Gegenteilstag",
+				"beschreibung": "beschreibung 19",
+				"ort": "🇺🇸",
+				"art": "National"
+            }
+        ],
+        "26": [
+            {
+				"name": "Tag des Kohlsafts",
+				"beschreibung": "beschreibung 20",
+				"ort": "🇺🇸",
+				"art": "National"
+            }
+        ],
+        "27": [
+            {
+				"name": "Tag der eulerschen Zahl",
+				"beschreibung": "beschreibung 21",
+				"ort": "🌍",
+				"art": "International"
+            }
+        ],
+        "28": [
+            {
+				"name": "LEGO-Tag",
+				"beschreibung": "beschreibung 19",
+				"ort": "🌍",
+				"art": "International"
+            }
+        ],
+        "29": [
+            {
+				"name": "Tag der Maischips",
+				"beschreibung": "beschreibung 20",
+				"ort": "🇺🇸",
+				"art": "National"
+            }
+        ],
+        "30": [
+            {
+				"name": "Tag des Croissants",
+				"beschreibung": "beschreibung 21",
+				"ort": "🇺🇸",
+				"art": "National"
+            }
+        ],
+        "31": [
+            {
+				"name": "Iss-Rosenkohl-Tag",
+				"beschreibung": "beschreibung 22",
+				"ort": "🇺🇸",
+				"art": "National"
+            }
+        ]
+
+    },
+
+    "februar": {
+        "1": [
+            {
+				"name": "Hula in the Coola Day",
+				"beschreibung": "",
+				"ort": "🇺🇸",
+				"art": "National"
+            }
+        ],
+        "2": [
+            {
+				"name": "Spiele-Deine-Ukulele-Tag",
+				"beschreibung": "",
+				"ort": "🌍",
+				"art": "International"
+            }
+        ],
+        "3": [
+            {
+				"name": "Tag der männlichen Körperpflege",
+				"beschreibung": "",
+				"ort": "🇺🇸",
+				"art": "National"
+            }
+        ],
+        "4": [
+            {
+				"name": "Erzeuge-ein-Vakuum-Tag",
+				"beschreibung": "beschreibung 19",
+				"ort": "🇺🇸",
+				"art": "National"
+            }
+        ],
+        "5": [
+            {
+				"name": "Hast-du-gepupst?-Tag",
+				"beschreibung": "beschreibung 20",
+				"ort": "🇩🇪",
+				"art": "National"
+            }
+        ],
+        "6": [
+            {
+				"name": "Bob-Marley-Tag",
+				"beschreibung": "beschreibung 21",
+				"ort": "🌍",
+				"art": "International"
+            }
+        ],
+        "7": [
+            {
+				"name": "Rosentag",
+				"beschreibung": "beschreibung 19",
+				"ort": "🌍",
+				"art": "International"
+            }
+        ],
+        "8": [
+            {
+				"name": "Säubere-Deinen-Computer-Tag",
+				"beschreibung": "beschreibung 20",
+				"ort": "🇺🇸",
+				"art": "National"
+            }
+        ],
+        "9": [
+            {
+				"name": "Tag der außerirdischen Kultur",
+				"beschreibung": "beschreibung 21",
+				"ort": "🇺🇸",
+				"art": "National"
+            }
+        ],
+        "10": [
+            {
+				"name": "Tag der doofen Nuss",
+				"beschreibung": "beschreibung 19",
+				"ort": "🇩🇪",
+				"art": "Bundesweit"
+            }
+        ],
+        "11": [
+            {
+				"name": "Tag des weißen T-Shirts",
+				"beschreibung": "beschreibung 20",
+				"ort": "🇺🇸",
+				"art": "National"
+            }
+        ],
+        "12": [
+            {
+				"name": "Darwin-Tag",
+				"beschreibung": "beschreibung 21",
+				"ort": "🌍",
+				"art": "International"
+            }
+        ],
+        "13": [
+            {
+				"name": "Ändere-Deinen-Namen-Tag",
+				"beschreibung": "beschreibung 19",
+				"ort": "🇺🇸",
+				"art": "National"
+            }
+        ],
+        "14": [
+            {
+				"name": "Tag des Kondoms",
+				"beschreibung": "beschreibung 20",
+				"ort": "🇺🇸, 🇦🇺 und 🇬🇧",
+				"art": "National"
+            }
+        ],
+        "15": [
+            {
+				"name": "Ehrentag der Singles",
+				"beschreibung": "beschreibung 21",
+				"ort": "🇺🇸",
+				"art": "National"
+            }
+        ],
+        "16": [
+            {
+				"name": "Tag der Mandel",
+				"beschreibung": "beschreibung 19",
+				"ort": "🇺🇸",
+				"art": "National"
+            }
+        ],
+        "17": [
+            {
+				"name": "Nichtrauchertag",
+				"beschreibung": "beschreibung 20",
+				"ort": "🇮🇪",
+				"art": "National"
+            }
+        ],
+        "18": [
+            {
+				"name": "Pluto Tag",
+				"beschreibung": "Entdeckung Plutos",
+				"ort": "🌍",
+				"art": "International"
+            }
+        ],
+        "19": [
+            {
+				"name": "Tag der Wimpern",
+				"beschreibung": "beschreibung 19",
+				"ort": "🇺🇸",
+				"art": "National"
+            }
+        ],
+        "20": [
+            {
+				"name": "Liebe-Dein-Haustier-Tag",
+				"beschreibung": "beschreibung 20",
+				"ort": "🇺🇸",
+				"art": "National"
+            }
+        ],
+        "21": [
+            {
+				"name": "Tag der süßen Schnecken",
+				"beschreibung": "beschreibung 21",
+				"ort": "🇺🇸",
+				"art": "National"
+            }
+        ],
+        "22": [
+            {
+				"name": "Tag der Weißwurst",
+				"beschreibung": "beschreibung 19",
+				"ort": "🇩🇪",
+				"art": "National"
+            }
+        ],
+        "23": [
+            {
+				"name": "Tag des Hundekuchens",
+				"beschreibung": "beschreibung 20",
+				"ort": "🇺🇸",
+				"art": "National"
+            }
+        ],
+        "24": [
+            {
+				"name": "Sei-unbequem-Tag",
+				"beschreibung": "beschreibung 21",
+				"ort": "🇺🇸",
+				"art": "National"
+            }
+        ],
+        "25": [
+            {
+				"name": "Tag der Schachtelsätze",
+				"beschreibung": "beschreibung 19",
+				"ort": "🇩🇪",
+				"art": "National"
+            }
+        ],
+        "26": [
+            {
+				"name": "Tag des Ringfingers",
+				"beschreibung": "beschreibung 20",
+				"ort": "🇺🇸",
+				"art": "National"
+            }
+        ],
+        "27": [
+            {
+				"name": "Welttag der Schwertschlucker",
+				"beschreibung": "beschreibung 21",
+				"ort": "🌍",
+				"art": "International"
+            }
+        ],
+        "28": [
+            {
+				"name": "Schlaf-in-der-Öffentlichkeit-Tag",
+				"beschreibung": "beschreibung 19",
+				"ort": "🇺🇸",
+				"art": "National"
+            }
+        ],
+        "29":[
+            {
+                "name": "Schalttag",
+				"beschreibung": "beschreibung 19",
+				"ort": "🌍",
+				"art": "International"
+            }
+        ]
+
+    },
+
+    "märz": {
+        "1": [
+            {
+				"name": "Welttag der Komplimente",
+				"beschreibung": "",
+				"ort": "🌍",
+				"art": "International"
+            }
+        ],
+        "2": [
+            {
+				"name": "Adoptiere-eine-Katze-Tag",
+				"beschreibung": "",
+				"ort": "🌍",
+				"art": "International"
+            }
+        ],
+        "3": [
+            {
+				"name": "Tag des Aufschnitts",
+				"beschreibung": "",
+				"ort": "🇺🇸",
+				"art": "National"
+            }
+        ],
+        "4": [
+            {
+				"name": "Tag des Rührkuchens",
+				"beschreibung": "beschreibung 19",
+				"ort": "🇺🇸",
+				"art": "National"
+            }
+        ],
+        "5": [
+            {
+				"name": "Tag der multiplen Persönlichkeit",
+				"beschreibung": "beschreibung 20",
+				"ort": "🇺🇸",
+				"art": "National"
+            }
+        ],
+        "6": [
+            {
+				"name": "Tag der Tiefkühlkost",
+				"beschreibung": "beschreibung 21",
+				"ort": "🇺🇸",
+				"art": "National"
+            }
+        ],
+        "7": [
+            {
+				"name": "Tag der gesunden Ernährung",
+				"beschreibung": "beschreibung 19",
+				"ort": "🇩🇪",
+				"art": "National"
+            }
+        ],
+        "8": [
+            {
+				"name": "Weltfrauentag",
+				"beschreibung": "beschreibung 20",
+				"ort": "🌍",
+				"art": "International"
+            }
+        ],
+        "9": [
+            {
+				"name": "Panik-Tag",
+				"beschreibung": "beschreibung 21",
+				"ort": "🇺🇸",
+				"art": "National"
+            }
+        ],
+        "10": [
+            {
+				"name": "Super-Mario-Tag",
+				"beschreibung": "beschreibung 19",
+				"ort": "🇺🇸",
+				"art": "Bundesweit"
+            }
+        ],
+        "11": [
+            {
+				"name": "Welttag der Rohrleitungen",
+				"beschreibung": "beschreibung 20",
+				"ort": "🌍",
+				"art": "International"
+            }
+        ],
+        "12": [
+            {
+				"name": "Milky-Way-Tag",
+				"beschreibung": "beschreibung 21",
+				"ort": "🇺🇸",
+				"art": "National"
+            }
+        ],
+        "13": [
+            {
+				"name": "Öffne-drinnen-einen-Regenschirm-Tag",
+				"beschreibung": "beschreibung 19",
+				"ort": "🇺🇸",
+				"art": "National"
+            }
+        ],
+        "14": [
+            {
+				"name": "Pi Tag",
+				"beschreibung": "beschreibung 20",
+				"ort": "🌍",
+				"art": "International"
+            }
+        ],
+        "15": [
+            {
+				"name": "Alles-was-Du-denkst-ist-falsch-Tag",
+				"beschreibung": "beschreibung 21",
+				"ort": "🇺🇸",
+				"art": "National"
+            }
+        ],
+        "16": [
+            {
+				"name": "Tag des Pandas",
+				"beschreibung": "beschreibung 19",
+				"ort": "🇺🇸",
+				"art": "National"
+            }
+        ],
+        "17": [
+            {
+				"name": "St. Patrick`s Day",
+				"beschreibung": "beschreibung 20",
+				"ort": "🇮🇪",
+				"art": "National"
+            }
+        ],
+        "18": [
+            {
+				"name": "Tag der Fruchtbarkeitsgöttin",
+				"beschreibung": "Entdeckung Plutos",
+				"ort": "🇺🇸",
+				"art": "National"
+            }
+        ],
+        "19": [
+            {
+				"name": "Schokoladen-Karamell-Tag",
+				"beschreibung": "beschreibung 19",
+				"ort": "🇺🇸",
+				"art": "National"
+            }
+        ],
+        "20": [
+            {
+				"name": "Tag der Ravioli",
+				"beschreibung": "beschreibung 20",
+				"ort": "🇺🇸",
+				"art": "National"
+            }
+        ],
+        "21": [
+            {
+				"name": "Welt-Down-Syndrom-Tag",
+				"beschreibung": "beschreibung 21",
+				"ort": "🌍",
+				"art": "International"
+            }
+        ],
+        "22": [
+            {
+				"name": "Tag des Faulenzens",
+				"beschreibung": "beschreibung 19",
+				"ort": "🇺🇸",
+				"art": "National"
+            }
+        ],
+        "23": [
+            {
+				"name": "Tag der Hundewelpen",
+				"beschreibung": "beschreibung 20",
+				"ort": "🇺🇸",
+				"art": "National"
+            }
+        ],
+        "24": [
+            {
+				"name": "Elefanten-zeichnen-Tag",
+				"beschreibung": "beschreibung 21",
+				"ort": "🇩🇪",
+				"art": "Bundesweit"
+            }
+        ],
+        "25": [
+            {
+				"name": "Våffeldagen",
+				"beschreibung": "Tag der Waffel",
+				"ort": "🇸🇪",
+				"art": "National"
+            }
+        ],
+        "26": [
+            {
+				"name": "Erfinde-Deinen-eigenen-Feiertag-Tag",
+				"beschreibung": "beschreibung 20",
+				"ort": "🇺🇸",
+				"art": "National"
+            }
+        ],
+        "27": [
+            {
+				"name": "Internationaler Whisky-Tag",
+				"beschreibung": "beschreibung 21",
+				"ort": "🌍",
+				"art": "International"
+            }
+        ],
+        "28": [
+            {
+				"name": "Ehrentag des Unkrauts",
+				"beschreibung": "beschreibung 19",
+				"ort": "🇺🇸",
+				"art": "National"
+            }
+        ],
+        "29":[
+            {
+                "name": "Einmal-am-Tag-etwas-Verrücktes-tun-Tag",
+				"beschreibung": "beschreibung 19",
+				"ort": "🇩🇪",
+				"art": "National"
+            }
+        ],
+        "30": [
+            {
+                "name": "Anderswo-ist-auch-scheiße-Tag",
+				"beschreibung": "beschreibung 19",
+				"ort": "🇺🇸",
+				"art": "National"
+            }
+        ],
+        "31": [
+            {
+                "name": "Tag des Bunsenbrenners",
+				"beschreibung": "beschreibung 19",
+				"ort": "🇺🇸",
+				"art": "National"
+            }
+        ]
+
+    },
+
+    "april": {
+        "1": [
+            {
+                "name": "Tag der essbaren Bücher",
+                "beschreibung": "",
+                "ort": "🌍",
+                "art": "International"
+            }
+        ],
+        "2": [
+            {
+                "name": "Tag des Erdnussbutter-und-Marmelade-Sandwichs",
+                "beschreibung": "",
+                "ort": "🇺🇸",
+                "art": "National"
+            }
+        ],
+        "3": [
+            {
+                "name": "Tag der Arschkarte",
+                "beschreibung": "die erste Rote Karte der Fußball-Bundesliga",
+                "ort": "🇩🇪",
+                "art": "National"
+            }
+        ],
+        "4": [
+            {
+                "name": "error 404",
+                "beschreibung": "",
+                "ort": "🇺🇸",
+                "art": "National"
+            }
+        ],
+        "5": [
+            {
+                "name": "Tag des Löwenzahns",
+                "beschreibung": "",
+                "ort": "🇺🇸",
+                "art": "National"
+            }
+        ],
+        "6": [
+            {
+                "name": "Tag der frischen Tomaten",
+                "beschreibung": "",
+                "ort": "🇺🇸",
+                "art": "National"
+            }
+        ],
+        "7": [
+            {
+                "name": "Tag des Bieres",
+                "beschreibung": "",
+                "ort": "🇺🇸",
+                "art": "National"
+            }
+        ],
+        "8": [
+            {
+                "name": "Das japanische Blumenfest Hana Matsuri",
+                "beschreibung": "Buddhas Geburtstag",
+                "ort": "🇯🇵",
+                "art": "National"
+            }
+        ],
+        "9": [
+            {
+                "name": "Ehrentag der Antiquitäten",
+                "beschreibung": "",
+                "ort": "🇺🇸",
+                "art": "National"
+            }
+        ],
+        "10": [
+            {
+                "name": "Tag des Zimt-Croissants",
+                "beschreibung": "",
+                "ort": "🇺🇸",
+                "art": "National"
+            }
+        ],
+        "11": [
+            {
+                "name": "Welt-Parkinson-Tag",
+                "beschreibung": "",
+                "ort": "🌍",
+                "art": "International"
+            }
+        ],
+        "12": [
+            {
+                "name": "Internationaler Tag der bemannten Raumfahrt",
+                "beschreibung": "",
+                "ort": "🌍",
+                "art": "International"
+            }
+        ],
+        "13": [
+            {
+                "name": "Mittagessen-ist-wichtig-Tag",
+                "beschreibung": "",
+                "ort": "🇺🇸",
+                "art": "National"
+            }
+        ],
+        "14": [
+            {
+                "name": "Black Day",
+                "beschreibung": "Ein schwarzer Tag für die Liebe und zu Ehren der Singles",
+                "ort": "🇰🇷",
+                "art": "National"
+            }
+        ],
+        "15": [
+            {
+                "name": "Alles-ist-scheiße-Tag",
+                "beschreibung": "",
+                "ort": "🇺🇸",
+                "art": "National"
+            }
+        ],
+        "16": [
+            {
+                "name": "Komm-im-Schlafanzug-zur-Arbeit-Tag",
+                "beschreibung": "",
+                "ort": "🇺🇸",
+                "art": "National"
+            }
+        ],
+        "17": [
+            {
+                "name": "BlaBlabBla-Tag",
+                "beschreibung": "",
+                "ort": "🇺🇸",
+                "art": "National"
+            }
+        ],
+        "18": [
+            {
+                "name": "Weltamateurfunktag",
+                "beschreibung": "",
+                "ort": "🌍",
+                "art": "International"
+            }
+        ],
+        "19": [
+            {
+                "name": "Tag des Wäscheaufhängens",
+                "beschreibung": "",
+                "ort": "🇺🇸",
+                "art": "National"
+            }
+        ],
+        "20": [
+            {
+                "name": "420",
+                "beschreibung": "",
+                "ort": "🇺🇸",
+                "art": "National"
+            }
+        ],
+        "21": [
+            {
+                "name": "Tag der Banane",
+                "beschreibung": "",
+                "ort": "🇺🇸",
+                "art": "National"
+            }
+        ],
+        "22": [
+            {
+                "name": "Tag der Aprilschauer",
+                "beschreibung": "",
+                "ort": "🇺🇸",
+                "art": "National"
+            }
+        ],
+        "23": [
+            {
+                "name": "Internationaler Tag des Nasenbohrens",
+                "beschreibung": "",
+                "ort": "🌍",
+                "art": "International"
+            }
+        ],
+        "24": [
+            {
+                "name": "Würstchen-im-Schlafrock-Tag",
+                "beschreibung": "",
+                "ort": "🇺🇸",
+                "art": "National"
+            }
+        ],
+        "25": [
+            {
+                "name": "Welt-Pinguin-Tag",
+                "beschreibung": "",
+                "ort": "🌍",
+                "art": "International"
+            }
+        ],
+        "26": [
+            {
+                "name": "Erinnere-Dich-an-Deinen-ersten-Kuss-Tag",
+                "beschreibung": "",
+                "ort": "🇺🇸",
+                "art": "National"
+            }
+        ],
+        "27": [
+            {
+                "name": "Königstag",
+                "beschreibung": "",
+                "ort": "🇳🇱",
+                "art": "National"
+            }
+        ],
+        "28": [
+            {
+                "name": "Tag des Blaubeerkuchens",
+                "beschreibung": "",
+                "ort": "🇺🇸",
+                "art": "National"
+            }
+        ],
+        "29":[
+            {
+                "name": "Tag des Reißverschlusses",
+                "beschreibung": "",
+                "ort": "🇺🇸",
+                "art": "National"
+            }
+        ],
+        "30": [
+            {
+                "name": "Tag der Ehrlichkeit",
+                "beschreibung": "",
+                "ort": "🇺🇸",
+                "art": "National"
+            }
+        ]
+
+    },
+
+    "mai": {
+        "1": [
+            {
+                "name": "Vappu",
+                "beschreibung": "das finnische Frühlingsfest",
+                "ort": "🇫🇮",
+                "art": "National"
+            }
+        ],
+        "2": [
+            {
+                "name": "Welttag des Thunfischs",
+                "beschreibung": "",
+                "ort": "🌍",
+                "art": "International"
+            }
+        ],
+        "3": [
+            {
+                "name": "Trag-zwei-verschiedenfarbige-Schuhe-Tag",
+                "beschreibung": "",
+                "ort": "🇺🇸",
+                "art": "National"
+            }
+        ],
+        "4": [
+            {
+                "name": "Tag des Orangensafts",
+                "beschreibung": "",
+                "ort": "🇺🇸",
+                "art": "National"
+            }
+        ],
+        "5": [
+            {
+                "name": "Tag des belegten Baguettes",
+                "beschreibung": "",
+                "ort": "🇺🇸",
+                "art": "National"
+            }
+        ],
+        "6": [
+            {
+                "name": "Anti-Diät-Tag",
+                "beschreibung": "",
+                "ort": "🌍",
+                "art": "International"
+            }
+        ],
+        "7": [
+            {
+                "name": "Tag des Verpackungsdesigns",
+                "beschreibung": "",
+                "ort": "🇺🇸",
+                "art": "National"
+            }
+        ],
+        "8": [
+            {
+                "name": "Ohne-Socken-Tag",
+                "beschreibung": "",
+                "ort": "🇺🇸",
+                "art": "National"
+            }
+        ],
+        "9": [
+            {
+                "name": "Tag des Orgasmus",
+                "beschreibung": "",
+                "ort": "🇧🇷",
+                "art": "National"
+            }
+        ],
+        "10": [
+            {
+                "name": "Tag der Windmühle",
+                "beschreibung": "",
+                "ort": "🇺🇸",
+                "art": "National"
+            }
+        ],
+        "11": [
+            {
+                "name": "Tag der gleichfarbigen Socken",
+                "beschreibung": "",
+                "ort": "🇩🇪",
+                "art": "Nationational"
+            }
+        ],
+        "12": [
+            {
+                "name": "Tag des Hodometers",
+                "beschreibung": "",
+                "ort": "🇺🇸",
+                "art": "National"
+            }
+        ],
+        "13": [
+            {
+                "name": "Welt-Cocktail-Tag",
+                "beschreibung": "",
+                "ort": "🌍",
+                "art": "International"
+            }
+        ],
+        "14": [
+            {
+                "name": "Ententanz-Tag",
+                "beschreibung": "",
+                "ort": "🇺🇸",
+                "art": "National"
+            }
+        ],
+        "15": [
+            {
+                "name": "Tag des Strohhuts",
+                "beschreibung": "",
+                "ort": "🇬🇧",
+                "art": "National"
+            }
+        ],
+        "16": [
+            {
+                "name": "Tag der Sea-Monkeys",
+                "beschreibung": "",
+                "ort": "🇺🇸",
+                "art": "National"
+            }
+        ],
+        "17": [
+            {
+                "name": "Welttag des Backens",
+                "beschreibung": "",
+                "ort": "🌍",
+                "art": "International"
+            }
+        ],
+        "18": [
+            {
+                "name": "Kein-schmutziges Geschirr-Tag",
+                "beschreibung": "",
+                "ort": "🇺🇸",
+                "art": "National"
+            }
+        ],
+        "19": [
+            {
+                "name": "Tag des Devil’s Food Cake",
+                "beschreibung": "",
+                "ort": "🇺🇸",
+                "art": "National"
+            }
+        ],
+        "20": [
+            {
+                "name": "Fremdworttag",
+                "beschreibung": "",
+                "ort": "🇩🇪",
+                "art": "Bundesweite"
+            }
+        ],
+        "21": [
+            {
+                "name": "Weltuntergangstag",
+                "beschreibung": "",
+                "ort": "🇺🇸",
+                "art": "National"
+            }
+        ],
+        "22": [
+            {
+                "name": "Tag des Schwimmmeisters",
+                "beschreibung": "",
+                "ort": "🇩🇪",
+                "art": "Bundesweite"
+            }
+        ],
+        "23": [
+            {
+                "name": "Weltschildkrötentag",
+                "beschreibung": "",
+                "ort": "🌍",
+                "art": "International"
+            }
+        ],
+        "24": [
+            {
+                "name": "Tag der Schnitzeljagd",
+                "beschreibung": "",
+                "ort": "🇺🇸",
+                "art": "National"
+            }
+        ],
+        "25": [
+            {
+                "name": "Tag des Clowns",
+                "beschreibung": "",
+                "ort": "🇵🇪",
+                "art": "National"
+            }
+        ],
+        "26": [
+            {
+                "name": "Tag der Farbe Grau",
+                "beschreibung": "",
+                "ort": "🇬🇧",
+                "art": "National"
+            }
+        ],
+        "27": [
+            {
+                "name": "Tag des Klebebands",
+                "beschreibung": "",
+                "ort": "🇺🇸",
+                "art": "National"
+            }
+        ],
+        "28": [
+            {
+                "name": "Tag der Rückkehr der Nacktschnecken aus Capistran",
+                "beschreibung": "",
+                "ort": "🇺🇸",
+                "art": "National"
+            }
+        ],
+        "29":[
+            {
+                "name": "Leg-Dein-Kopfkissen-auf-den-Kühlschrank-Tag",
+                "beschreibung": "",
+                "ort": "🇺🇸",
+                "art": "National"
+            }
+        ],
+        "30": [
+            {
+                "name": "tag der Kartoffel",
+                "beschreibung": "",
+                "ort": "🇵🇪",
+                "art": "National"
+            }
+        ],
+        "31": [
+            {
+                "name": "Weltnichtrauchertag",
+                "beschreibung": "",
+                "ort": "🌍",
+                "art": "International"
+            }
+        ]
+
+    },
+
+    "juni": {
+        "1": [
+            {
+                "name": "Weltmilchtag ",
+                "beschreibung": "",
+                "ort": "🌍",
+                "art": "International"
+            }
+        ],
+        "2": [
+            {
+                "name": "Mach-früher-Feierabend-Tag",
+                "beschreibung": "",
+                "ort": "🇺🇸",
+                "art": "National"
+            }
+        ],
+        "3": [
+            {
+                "name": "Tag der Eier",
+                "beschreibung": "",
+                "ort": "🇺🇸",
+                "art": "National"
+            }
+        ],
+        "4": [
+            {
+                "name": "Tag des Einkaufswagens",
+                "beschreibung": "",
+                "ort": "🇺🇸",
+                "art": "National"
+            }
+        ],
+        "5": [
+            {
+                "name": "Ketchup-Tag",
+                "beschreibung": "",
+                "ort": "🇺🇸",
+                "art": "National"
+            }
+        ],
+        "6": [
+            {
+                "name": "Sjómannadagurinn",
+                "beschreibung": "Tag der Seeleute und Fischer",
+                "ort": "🇮🇸",
+                "art": "National"
+            }
+        ],
+        "7": [
+            {
+                "name": "Tag der Apotheke",
+                "beschreibung": "",
+                "ort": "🇩🇪",
+                "art": "National"
+            }
+        ],
+        "8": [
+            {
+                "name": "Was-willst-Du-trinken-Tag?",
+                "beschreibung": "",
+                "ort": "🇺🇸",
+                "art": "National"
+            }
+        ],
+        "9": [
+            {
+                "name": "Donald Ducks Geburtstag",
+                "beschreibung": "",
+                "ort": "🇺🇸",
+                "art": "National"
+            }
+        ],
+        "10": [
+            {
+                "name": "Eistee-Tag",
+                "beschreibung": "",
+                "ort": "🇺🇸",
+                "art": "National"
+            }
+        ],
+        "11": [
+            {
+                "name": "Tag des deutschen Schokoladenkuchens",
+                "beschreibung": "",
+                "ort": "🇺🇸",
+                "art": "National"
+            }
+        ],
+        "12": [
+            {
+                "name": "Tag der Liebenden",
+                "beschreibung": "",
+                "ort": "🇧🇷",
+                "art": "National"
+            }
+        ],
+        "13": [
+            {
+                "name": "Tag der Tauben",
+                "beschreibung": "",
+                "ort": "🇺🇸",
+                "art": "National"
+            }
+        ],
+        "14": [
+            {
+                "name": "Internationaler Bade-Tag",
+                "beschreibung": "",
+                "ort": "🌍",
+                "art": "International"
+            }
+        ],
+        "15": [
+            {
+                "name": "Tag des Strandkorbs",
+                "beschreibung": "",
+                "ort": "🇩🇪",
+                "art": "Bundesweite"
+            }
+        ],
+        "16": [
+            {
+                "name": "Tag des frischen Gemüses",
+                "beschreibung": "",
+                "ort": "🇺🇸",
+                "art": "National"
+            }
+        ],
+        "17": [
+            {
+                "name": "Iss-Dein-Gemüse-Tag",
+                "beschreibung": "",
+                "ort": "🇺🇸",
+                "art": "National"
+            }
+        ],
+        "18": [
+            {
+                "name": "Gönn-Dir-was-Tag",
+                "beschreibung": "",
+                "ort": "🇺🇸",
+                "art": "National"
+            }
+        ],
+        "19": [
+            {
+                "name": "Tag der Armbanduhr",
+                "beschreibung": "",
+                "ort": "🇺🇸",
+                "art": "National"
+            }
+        ],
+        "20": [
+            {
+                "name": "Internationaler Tag der Produktivität",
+                "beschreibung": "",
+                "ort": "🌍",
+                "art": "International"
+            }
+        ],
+        "21": [
+            {
+                "name": "Internationaler T-Shirt-Tag",
+                "beschreibung": "",
+                "ort": "🌍",
+                "art": "International"
+            }
+        ],
+        "22": [
+            {
+                "name": "Tag der Zwiebelringe",
+                "beschreibung": "",
+                "ort": "🇺🇸",
+                "art": "National"
+            }
+        ],
+        "23": [
+            {
+                "name": "Tag der pinken Flamingos",
+                "beschreibung": "",
+                "ort": "🇺🇸",
+                "art": "National"
+            }
+        ],
+        "24": [
+            {
+                "name": "Tag des UFOs",
+                "beschreibung": "",
+                "ort": "🇺🇸",
+                "art": "National"
+            }
+        ],
+        "25": [
+            {
+                "name": "Leon Day",
+                "beschreibung": "Noch sechs Monate bis Weihnachten",
+                "ort": "🇺🇸",
+                "art": "National"
+            }
+        ],
+        "26": [
+            {
+                "name": "Bärengedenktag",
+                "beschreibung": "",
+                "ort": "🇩🇪",
+                "art": "Bundesweite"
+            }
+        ],
+        "27": [
+            {
+                "name": "Internationaler Tag der Ananas",
+                "beschreibung": "",
+                "ort": "🌍",
+                "art": "International"
+            }
+        ],
+        "28": [
+            {
+                "name": "INTERNATIONALER TAG DER FESTSTELLTASTE",
+                "beschreibung": "",
+                "ort": "🌍",
+                "art": "International"
+            }
+        ],
+        "29":[
+            {
+                "name": "Internationaler Matsch-Tag",
+                "beschreibung": "",
+                "ort": "🌍",
+                "art": "International"
+            }
+        ],
+        "30": [
+            {
+                "name": "Mai-Tai-Tag",
+                "beschreibung": "Orangen- und Ananassaft mit Rum, Grenadine und eine Limette",
+                "ort": "🇺🇸",
+                "art": "National"
+            }
+        ]
+
+    },
+
+    "juli": {
+        "1": [
+            {
+                "name": "Tag der kreativen Eissorten",
+                "beschreibung": "",
+                "ort": "🇺🇸",
+                "art": "National"
+            }
+        ],
+        "2": [
+            {
+                "name": "Habe-ich-vergessen-Tag",
+                "beschreibung": "",
+                "ort": "🇺🇸",
+                "art": "National"
+            }
+        ],
+        "3": [
+            {
+                "name": "Iss-Deine-Bohnen-Tag",
+                "beschreibung": "",
+                "ort": "🇺🇸",
+                "art": "National"
+            }
+        ],
+        "4": [
+            {
+                "name": "Brate-Eier-auf-dem-Gehweg-Tag",
+                "beschreibung": "",
+                "ort": "🇺🇸",
+                "art": "National"
+            }
+        ],
+        "5": [
+            {
+                "name": "Tag des Bikinis",
+                "beschreibung": "Louis Réard präsentiert erstmals öffentlich den Bikini",
+                "ort": "🇺🇸",
+                "art": "National"
+            }
+        ],
+        "6": [
+            {
+                "name": "Internationaler Tag des Kusses",
+                "beschreibung": "",
+                "ort": "🌍",
+                "art": "International"
+            }
+        ],
+        "7": [
+            {
+                "name": "Tanabata",
+                "beschreibung": "apanische Sternenfest",
+                "ort": "🇯🇵",
+                "art": "National"
+            }
+        ],
+        "8": [
+            {
+                "name": "Tag der Videospiele",
+                "beschreibung": "",
+                "ort": "🇺🇸",
+                "art": "National"
+            }
+        ],
+        "9": [
+            {
+                "name": "Nicht-alle-Eier-fürs-Omelett-Tag",
+                "beschreibung": "",
+                "ort": "🇺🇸",
+                "art": "National"
+            }
+        ],
+        "10": [
+            {
+                "name": "Tag des Teddybär-Picknicks",
+                "beschreibung": "",
+                "ort": "🌍",
+                "art": "International"
+            }
+        ],
+        "11": [
+            {
+                "name": "Tag der Haustierfotos",
+                "beschreibung": "",
+                "ort": "🇺🇸",
+                "art": "National"
+            }
+        ],
+        "12": [
+            {
+                "name": "Tag der Einfachheit",
+                "beschreibung": "",
+                "ort": "🇺🇸",
+                "art": "National"
+            }
+        ],
+        "13": [
+            {
+                "name": "Ehrentag der Kuh",
+                "beschreibung": "",
+                "ort": "🇺🇸",
+                "art": "National"
+            }
+        ],
+        "14": [
+            {
+                "name": "Internationaler Tag der Nacktheit",
+                "beschreibung": "",
+                "ort": "🌍",
+                "art": "International"
+            }
+        ],
+        "15": [
+            {
+                "name": "Tag des Teilens",
+                "beschreibung": "",
+                "ort": "🇺🇸",
+                "art": "National"
+            }
+        ],
+        "16": [
+            {
+                "name": "Ehrentag der Meerschweinchen",
+                "beschreibung": "",
+                "ort": "🇨🇦",
+                "art": "National"
+            }
+        ],
+        "17": [
+            {
+                "name": "Tag des gelben Schweins",
+                "beschreibung": "",
+                "ort": "🇺🇸",
+                "art": "National"
+            }
+        ],
+        "18": [
+            {
+                "name": "Welt-Zuhör-Tag",
+                "beschreibung": "",
+                "ort": "🌍",
+                "art": "International"
+            }
+        ],
+        "19": [
+            {
+                "name": "Streck-die-Zunge-raus-Tag",
+                "beschreibung": "",
+                "ort": "🇺🇸",
+                "art": "National"
+            }
+        ],
+        "20": [
+            {
+                "name": "Tag des Mondes",
+                "beschreibung": "ersten bemannten Mondlandung am 20. Juli 1969",
+                "ort": "🇺🇸",
+                "art": "National"
+            }
+        ],
+        "21": [
+            {
+                "name": "Tag des Junkfoods",
+                "beschreibung": "",
+                "ort": "🇺🇸",
+                "art": "National"
+            }
+        ],
+        "22": [
+            {
+                "name": "Tag der Mango",
+                "beschreibung": "",
+                "ort": "🇺🇸",
+                "art": "National"
+            }
+        ],
+        "23": [
+            {
+                "name": "Erdnussbutter-Schokoladen-Tag",
+                "beschreibung": "",
+                "ort": "🇺🇸",
+                "art": "National"
+            }
+        ],
+        "24": [
+            {
+                "name": "Internationaler Tag der Freude",
+                "beschreibung": "",
+                "ort": "🌍",
+                "art": "International"
+            }
+        ],
+        "25": [
+            {
+                "name": "Nadel-Einfädelungs-Tag",
+                "beschreibung": "",
+                "ort": "🇺🇸",
+                "art": "National"
+            }
+        ],
+        "26": [
+            {
+                "name": "Alles-oder-Nichts-Tag",
+                "beschreibung": "",
+                "ort": "🇺🇸",
+                "art": "National"
+            }
+        ],
+        "27": [
+            {
+                "name": "Unikeonpäivä",
+                "beschreibung": "Tag der Schlafmütze",
+                "ort": "🇫🇮",
+                "art": "National"
+            }
+        ],
+        "28": [
+            {
+                "name": "Tag der Vollmilchschokolade",
+                "beschreibung": "",
+                "ort": "🇺🇸",
+                "art": "National"
+            }
+        ],
+        "29":[
+            {
+                "name": "Tag des Lippenstifts",
+                "beschreibung": "",
+                "ort": "🇺🇸",
+                "art": "National"
+            }
+        ],
+        "30": [
+            {
+                "name": "Internationaler Tag der Freundschaft",
+                "beschreibung": "",
+                "ort": "🌍",
+                "art": "International"
+            }
+        ],
+        "31": [
+            {
+                "name": "Orgasmus-Tag",
+                "beschreibung": "",
+                "ort": "Großbritanian",
+                "art": "National"
+            }
+        ]
+
+    },
+
+    "august": {
+        "1": [
+            {
+                "name": "Welt-Mittelfingertag",
+                "beschreibung": "",
+                "ort": "🌍",
+                "art": "International"
+            }
+        ],
+        "2": [
+            {
+                "name": "Tag der Dinosaurier",
+                "beschreibung": "",
+                "ort": "🇺🇸",
+                "art": "National"
+            }
+        ],
+        "3": [
+            {
+                "name": "Wisch-den-Fußboden-Tag",
+                "beschreibung": "",
+                "ort": "🇺🇸",
+                "art": "National"
+            }
+        ],
+        "4": [
+            {
+                "name": "Tag des Weißweins",
+                "beschreibung": "",
+                "ort": "🇺🇸",
+                "art": "National"
+            }
+        ],
+        "5": [
+            {
+                "name": "Tag der Unterwäsche",
+                "beschreibung": "",
+                "ort": "🇺🇸",
+                "art": "National"
+            }
+        ],
+        "6": [
+            {
+                "name": "Wackel-mit-den-Zehen-Tag",
+                "beschreibung": "",
+                "ort": "🇺🇸",
+                "art": "National"
+            }
+        ],
+        "7": [
+            {
+                "name": "Tag des Leuchtturms",
+                "beschreibung": "",
+                "ort": "🇺🇸",
+                "art": "National"
+            }
+        ],
+        "8": [
+            {
+                "name": "Schmuggel-ein-paar-Zucchini-auf-die-Terrasse-Deiner-Nachbarn-Nacht",
+                "beschreibung": "",
+                "ort": "🇺🇸",
+                "art": "National"
+            }
+        ],
+        "9": [
+            {
+                "name": "Tag des Milchreis",
+                "beschreibung": "",
+                "ort": "🇺🇸",
+                "art": "National"
+            }
+        ],
+        "10": [
+            {
+                "name": "Faulpelz-Tag",
+                "beschreibung": "",
+                "ort": "🇺🇸",
+                "art": "National"
+            }
+        ],
+        "11": [
+            {
+                "name": "Yama no hi",
+                "beschreibung": "japanischer Tag des Berges",
+                "ort": "🇯🇵",
+                "art": "National"
+            }
+        ],
+        "12": [
+            {
+                "name": "Welttag des Elefanten",
+                "beschreibung": "",
+                "ort": "🌍",
+                "art": "International"
+            }
+        ],
+        "13": [
+            {
+                "name": "Schuld-sind-die-anderen-Tag",
+                "beschreibung": "",
+                "ort": "🇺🇸",
+                "art": "National"
+            }
+        ],
+        "14": [
+            {
+                "name": "Welttag der Eidechsen",
+                "beschreibung": "",
+                "ort": "🌍",
+                "art": "International"
+            }
+        ],
+        "15": [
+            {
+                "name": "Tag der Fehler",
+                "beschreibung": "",
+                "ort": "🇺🇸",
+                "art": "National"
+            }
+        ],
+        "16": [
+            {
+                "name": "Wink-Überwachungskameras-zu-Tag",
+                "beschreibung": "",
+                "ort": "🌍",
+                "art": "International"
+            }
+        ],
+        "17": [
+            {
+                "name": "Ich-mag-meine-Füße-Tag",
+                "beschreibung": "",
+                "ort": "🇺🇸",
+                "art": "National"
+            }
+        ],
+        "18": [
+            {
+                "name": "Tag des hochgekrempelten Hosenbeins",
+                "beschreibung": "",
+                "ort": "🇩🇪",
+                "art": "Bundesweite"
+            }
+        ],
+        "19": [
+            {
+                "name": "Internationaler Tag des Orang-Utans",
+                "beschreibung": "",
+                "ort": "🌍",
+                "art": "International"
+            }
+        ],
+        "20": [
+            {
+                "name": "Endlich-kaputt-Tag",
+                "beschreibung": "",
+                "ort": "🇩🇪",
+                "art": "Bundesweite"
+            }
+        ],
+        "21": [
+            {
+                "name": "Tag der Senioren",
+                "beschreibung": "",
+                "ort": "🇺🇸",
+                "art": "National"
+            }
+        ],
+        "22": [
+            {
+                "name": "Iss-einen-Pfirsich-Tag",
+                "beschreibung": "",
+                "ort": "🇺🇸",
+                "art": "National"
+            }
+        ],
+        "23": [
+            {
+                "name": "Tag der günstigen Flüge",
+                "beschreibung": "",
+                "ort": "🇺🇸",
+                "art": "National"
+            }
+        ],
+        "24": [
+            {
+                "name": "Nacht der Nostalgie",
+                "beschreibung": "",
+                "ort": "🇺🇾",
+                "art": "National"
+            }
+        ],
+        "25": [
+            {
+                "name": "Küsst-und-versöhnt-Euch-Tag",
+                "beschreibung": "",
+                "ort": "🇺🇸",
+                "art": "National"
+            }
+        ],
+        "26": [
+            {
+                "name": "Tag des Toilettenpapiers",
+                "beschreibung": "",
+                "ort": "🇺🇸",
+                "art": "National"
+            }
+        ],
+        "27": [
+            {
+                "name": "Tag der Bananenliebhaber",
+                "beschreibung": "",
+                "ort": "🇺🇸",
+                "art": "National"
+            }
+        ],
+        "28": [
+            {
+                "name": "Krümel-über-der-Tastatur-Tag",
+                "beschreibung": "",
+                "ort": "🇺🇸",
+                "art": "National"
+            }
+        ],
+        "29":[
+            {
+                "name": "Tag des Zitronensafts",
+                "beschreibung": "",
+                "ort": "🇺🇸",
+                "art": "National"
+            }
+        ],
+        "30": [
+            {
+                "name": "Strand-Tag",
+                "beschreibung": "",
+                "ort": "🇺🇸",
+                "art": "National"
+            }
+        ],
+        "31": [
+            {
+                "name": "Tag des Studentenfutters",
+                "beschreibung": "",
+                "ort": "🇺🇸",
+                "art": "National"
+            }
+        ]
+
+    },
+
+    "september": {
+        "1": [
+            {
+                "name": "Tag des Zebrastreifens",
+                "beschreibung": "",
+                "ort": "🇩🇪",
+                "art": "Bundesweite"
+            }
+        ],
+        "2": [
+            {
+                "name": "Internationaler Tag der Kokosnuss",
+                "beschreibung": "",
+                "ort": "🌍",
+                "art": "International"
+            }
+        ],
+        "3": [
+            {
+                "name": "Tag des Wolkenkratzers",
+                "beschreibung": "",
+                "ort": "🇺🇸",
+                "art": "National"
+            }
+        ],
+        "4": [
+            {
+                "name": "Tag der Currywurst",
+                "beschreibung": "",
+                "ort": "🇩🇪",
+                "art": "Bundesweite"
+            }
+        ],
+        "5": [
+            {
+                "name": "Kopfschmerztag",
+                "beschreibung": "",
+                "ort": "🇩🇪",
+                "art": "Bundesweite"
+            }
+        ],
+        "6": [
+            {
+                "name": "Tag des Eierwerfens",
+                "beschreibung": "",
+                "ort": "🇺🇸",
+                "art": "National"
+            }
+        ],
+        "7": [
+            {
+                "name": "Tag der Bierliebhaber",
+                "beschreibung": "",
+                "ort": "🇺🇸",
+                "art": "National"
+            }
+        ],
+        "8": [
+            {
+                "name": "Tag des &-Zeichens",
+                "beschreibung": "",
+                "ort": "🇺🇸",
+                "art": "National"
+            }
+        ],
+        "9": [
+            {
+                "name": "Tag des Wiener Schnitzels",
+                "beschreibung": "",
+                "ort": "🇺🇸",
+                "art": "National"
+            }
+        ],
+        "10": [
+            {
+                "name": "Warntag in Deutschland",
+                "beschreibung": "",
+                "ort": "🇩🇪",
+                "art": "Bundesweite"
+            }
+        ],
+        "11": [
+            {
+                "name": "9/11",
+                "beschreibung": "Patriot Day and National Day of Service and Remembrance",
+                "ort": "🇺🇸",
+                "art": "National"
+            }
+        ],
+        "12": [
+            {
+                "name": "Tag der Computerspiele",
+                "beschreibung": "",
+                "ort": "🇺🇸",
+                "art": "National"
+            }
+        ],
+        "13": [
+            {
+                "name": "Glückskeks-Tag",
+                "beschreibung": "",
+                "ort": "🇺🇸",
+                "art": "National"
+            }
+        ],
+        "14": [
+            {
+                "name": "Tag der Ruhe",
+                "beschreibung": "",
+                "ort": "🇬🇧",
+                "art": "National"
+            }
+        ],
+        "15": [
+            {
+                "name": "Tag des Filzhuts",
+                "beschreibung": "",
+                "ort": "🇺🇸",
+                "art": "National"
+            }
+        ],
+        "16": [
+            {
+                "name": "Sammel-Steine-Tag",
+                "beschreibung": "",
+                "ort": "🇺🇸",
+                "art": "National"
+            }
+        ],
+        "17": [
+            {
+                "name": "Internationaler Tag der Country-Musik",
+                "beschreibung": "",
+                "ort": "🌍",
+                "art": "International"
+            }
+        ],
+        "18": [
+            {
+                "name": "Tag des Respekts",
+                "beschreibung": "",
+                "ort": "🇺🇸",
+                "art": "National"
+            }
+        ],
+        "19": [
+            {
+                "name": "Sprich-wie-ein-Pirat-Tag",
+                "beschreibung": "",
+                "ort": "🌍",
+                "art": "International"
+            }
+        ],
+        "20": [
+            {
+                "name": "Tag der Pepperoni-Pizza",
+                "beschreibung": "",
+                "ort": "🇺🇸",
+                "art": "National"
+            }
+        ],
+        "21": [
+            {
+                "name": "Welt-Alzheimertag",
+                "beschreibung": "",
+                "ort": "🌍",
+                "art": "International"
+            }
+        ],
+        "22": [
+            {
+                "name": "Autofreier Tag",
+                "beschreibung": "",
+                "ort": "🌍",
+                "art": "International"
+            }
+        ],
+        "23": [
+            {
+                "name": "Tag der Bisexualität",
+                "beschreibung": "",
+                "ort": "🇺🇸",
+                "art": "National"
+            }
+        ],
+        "24": [
+            {
+                "name": "Tag der Satzzeichen",
+                "beschreibung": "",
+                "ort": "🇺🇸",
+                "art": "National"
+            }
+        ],
+        "25": [
+            {
+                "name": "Tag der Zahngesundheit",
+                "beschreibung": "",
+                "ort": "🇩🇪",
+                "art": "Bundesweite"
+            }
+        ],
+        "26": [
+            {
+                "name": "Tag des gesunden Frühstücks",
+                "beschreibung": "",
+                "ort": "🇺🇸",
+                "art": "National"
+            }
+        ],
+        "27": [
+            {
+                "name": "Tag des kalten Kakaos",
+                "beschreibung": "",
+                "ort": "🇺🇸",
+                "art": "National"
+            }
+        ],
+        "28": [
+            {
+                "name": "Stell-eine-dumme-Frage-Tag",
+                "beschreibung": "",
+                "ort": "🇺🇸",
+                "art": "National"
+            }
+        ],
+        "29":[
+            {
+                "name": "Weltherztag",
+                "beschreibung": "",
+                "ort": "🌍",
+                "art": "International"
+            }
+        ],
+        "30": [
+            {
+                "name": "Tag des Kaugummis",
+                "beschreibung": "",
+                "ort": "🇺🇸",
+                "art": "National"
+            }
+        ]
+
+    },
+
+    "oktober": {
+        "1": [
+            {
+                "name": "Internationaler Tag des Kaffees",
+                "beschreibung": "",
+                "ort": "🌍",
+                "art": "International"
+            }
+        ],
+        "2": [
+            {
+                "name": "Gib-Deinem-Auto-einen-Namen-Tag",
+                "beschreibung": "",
+                "ort": "🇺🇸",
+                "art": "National"
+            }
+        ],
+        "3": [
+            {
+                "name": "Tag des Herbstlaubs",
+                "beschreibung": "",
+                "ort": "🇺🇸",
+                "art": "National"
+            }
+        ],
+        "4": [
+            {
+                "name": "Tag des Wodkas",
+                "beschreibung": "",
+                "ort": "🇺🇸",
+                "art": "National"
+            }
+        ],
+        "5": [
+            {
+                "name": "Mach-etwas-Nettes-Tag",
+                "beschreibung": "",
+                "ort": "🇺🇸",
+                "art": "National"
+            }
+        ],
+        "6": [
+            {
+                "name": "Deutsch-Amerikanischer Tag",
+                "beschreibung": "",
+                "ort": "🇺🇸",
+                "art": "National"
+            }
+        ],
+        "7": [
+            {
+                "name": "Tag des Morgenmuffels",
+                "beschreibung": "",
+                "ort": "🇩🇪",
+                "art": "National"
+            }
+        ],
+        "8": [
+            {
+                "name": "Welttag der Kraken",
+                "beschreibung": "",
+                "ort": "🌍",
+                "art": "International"
+            }
+        ],
+        "9": [
+            {
+                "name": "Hangeul-Tag",
+                "beschreibung": "Tag des koreanischen Alphabets",
+                "ort": "🇰🇷",
+                "art": "National"
+            }
+        ],
+        "10": [
+            {
+                "name": "Welthundetag",
+                "beschreibung": "",
+                "ort": "🌍",
+                "art": "International"
+            }
+        ],
+        "11": [
+            {
+                "name": "Internationaler Mädchentag",
+                "beschreibung": "",
+                "ort": "🌍",
+                "art": "International"
+            }
+        ],
+        "12": [
+            {
+                "name": "Internationaler Tag der Frustrationsschreie",
+                "beschreibung": "",
+                "ort": "🌍",
+                "art": "International"
+            }
+        ],
+        "13": [
+            {
+                "name": "M&M-Tag",
+                "beschreibung": "",
+                "ort": "🇺🇸",
+                "art": "National"
+            }
+        ],
+        "14": [
+            {
+                "name": "Glücklich-trotz-Glatze-Tag",
+                "beschreibung": "",
+                "ort": "🇺🇸",
+                "art": "National"
+            }
+        ],
+        "15": [
+            {
+                "name": "Mops-Tag",
+                "beschreibung": "",
+                "ort": "🇺🇸",
+                "art": "National"
+            }
+        ],
+        "16": [
+            {
+                "name": "Tag des Likörs",
+                "beschreibung": "",
+                "ort": "🇺🇸",
+                "art": "National"
+            }
+        ],
+        "17": [
+            {
+                "name": "Trag-auffällige-Klamotten-Tag",
+                "beschreibung": "",
+                "ort": "🇺🇸",
+                "art": "National"
+            }
+        ],
+        "18": [
+            {
+                "name": "Tag der Krawatte",
+                "beschreibung": "",
+                "ort": "🇭🇷",
+                "art": "National"
+            }
+        ],
+        "19": [
+            {
+                "name": "Evaluier-dein-Leben-Tag",
+                "beschreibung": "",
+                "ort": "🇺🇸",
+                "art": "National"
+            }
+        ],
+        "20": [
+            {
+                "name": "Tag des Grabsteins",
+                "beschreibung": "",
+                "ort": "🇩🇪",
+                "art": "Bundesweite"
+            }
+        ],
+        "21": [
+            {
+                "name": "Zähl-Deine-Knöpfe-Tag",
+                "beschreibung": "",
+                "ort": "🇺🇸",
+                "art": "National"
+            }
+        ],
+        "22": [
+            {
+                "name": "Welttag des Stotterns",
+                "beschreibung": "",
+                "ort": "🌍",
+                "art": "International"
+            }
+        ],
+        "23": [
+            {
+                "name": "Tag des Mols",
+                "beschreibung": "",
+                "ort": "🇺🇸",
+                "art": "National"
+            }
+        ],
+        "24": [
+            {
+                "name": "Hol-Dir-Deine-Zeit-zurück-Tag",
+                "beschreibung": "",
+                "ort": "🇺🇸",
+                "art": "National"
+            }
+        ],
+        "25": [
+            {
+                "name": "Tag des fettigen Essens",
+                "beschreibung": "",
+                "ort": "🇺🇸",
+                "art": "National"
+            }
+        ],
+        "26": [
+            {
+                "name": "Heul-den-Mond-an-Tag",
+                "beschreibung": "",
+                "ort": "🇺🇸",
+                "art": "National"
+            }
+        ],
+        "27": [
+            {
+                "name": "Tag der Boxershorts",
+                "beschreibung": "",
+                "ort": "🇺🇸",
+                "art": "National"
+            }
+        ],
+        "28": [
+            {
+                "name": "Ochi-Tag",
+                "beschreibung": "ahrestag des Nein in Griechenland",
+                "ort": "🇬🇷",
+                "art": "National"
+            }
+        ],
+        "29":[
+            {
+                "name": "Tag des Haferbreis ",
+                "beschreibung": "",
+                "ort": "🇺🇸",
+                "art": "National"
+            }
+        ],
+        "30": [
+            {
+                "name": "Tag des Kinnkraulens",
+                "beschreibung": "",
+                "ort": "🇩🇪",
+                "art": "Bundesweite"
+            }
+        ],
+        "31": [
+            {
+                "name": "Tag der Türklingel",
+                "beschreibung": "",
+                "ort": "🇺🇸",
+                "art": "National"
+            }
+        ]
+
+    },
+
+    "november": {
+        "1": [
+            {
+                "name": "Tag des Einhorns",
+                "beschreibung": "",
+                "ort": "🌍",
+                "art": "International"
+            }
+        ],
+        "2": [
+            {
+                "name": "Krümelmonster-Tag",
+                "beschreibung": "",
+                "ort": "🇺🇸",
+                "art": "National"
+            }
+        ],
+        "3": [
+            {
+                "name": "Weltmännertag",
+                "beschreibung": "",
+                "ort": "🌍",
+                "art": "International"
+            }
+        ],
+        "4": [
+            {
+                "name": "Tutanchamun-Tag",
+                "beschreibung": "Entdeckung eines der bekanntesten ägyptischen Pharaonengräber durch den britischen Archäologen Howard Carter im Jahre 1922.",
+                "ort": "🌍",
+                "art": "International"
+            }
+        ],
+        "5": [
+            {
+                "name": "Bonfire Night in England",
+                "beschreibung": "",
+                "ort": "🇬🇧",
+                "art": "National"
+            }
+        ],
+        "6": [
+            {
+                "name": "Tag des Saxophons",
+                "beschreibung": "",
+                "ort": "🌍",
+                "art": "International"
+            }
+        ],
+        "7": [
+            {
+                "name": "Tag der Zartbitterschokolade mit Mandeln",
+                "beschreibung": "",
+                "ort": "🇺🇸",
+                "art": "National"
+            }
+        ],
+        "8": [
+            {
+                "name": "Genügend-Zeit-Tag",
+                "beschreibung": "",
+                "ort": "🇺🇸",
+                "art": "National"
+            }
+        ],
+        "9": [
+            {
+                "name": "Tag des ewigen Chaos",
+                "beschreibung": "",
+                "ort": "🇺🇸",
+                "art": "National"
+            }
+        ],
+        "10": [
+            {
+                "name": "Tag des Vanille Cupcake",
+                "beschreibung": "",
+                "ort": "🇺🇸",
+                "art": "National"
+            }
+        ],
+        "11": [
+            {
+                "name": "Tag der Singles",
+                "beschreibung": "",
+                "ort": "🇨🇳",
+                "art": "National"
+            }
+        ],
+        "12": [
+            {
+                "name": "Tag der schlechten Wortspiele",
+                "beschreibung": "",
+                "ort": "🇩🇪",
+                "art": "Bundesweite"
+            }
+        ],
+        "13": [
+            {
+                "name": "Welt-Nettigkeitstag",
+                "beschreibung": "",
+                "ort": "🌍",
+                "art": "International"
+            }
+        ],
+        "14": [
+            {
+                "name": "Weltdiabetestag",
+                "beschreibung": "",
+                "ort": "🌍",
+                "art": "International"
+            }
+        ],
+        "15": [
+            {
+                "name": "Putz-Deinen-Kühlschrank-Tag",
+                "beschreibung": "",
+                "ort": "🇺🇸",
+                "art": "National"
+            }
+        ],
+        "16": [
+            {
+                "name": "Feier-eine-Party-mit-Deinem-Bären-Tag",
+                "beschreibung": "",
+                "ort": "🇺🇸",
+                "art": "National"
+            }
+        ],
+        "17": [
+            {
+                "name": "Geh-wandern-Tag",
+                "beschreibung": "",
+                "ort": "🇺🇸",
+                "art": "National"
+            }
+        ],
+        "18": [
+            {
+                "name": "Tag des Tastentelefons",
+                "beschreibung": "",
+                "ort": "🇺🇸",
+                "art": "National"
+            }
+        ],
+        "19": [
+            {
+                "name": "Welttoilettentag",
+                "beschreibung": "",
+                "ort": "🌍",
+                "art": "International"
+            }
+        ],
+        "20": [
+            {
+                "name": "Tag des Unsinns",
+                "beschreibung": "",
+                "ort": "🇺🇸",
+                "art": "National"
+            }
+        ],
+        "21": [
+            {
+                "name": "Welttag des Fernsehens",
+                "beschreibung": "",
+                "ort": "🌍",
+                "art": "International"
+            }
+        ],
+        "22": [
+            {
+                "name": "Tag der Hausmusik",
+                "beschreibung": "",
+                "ort": "🇩🇪",
+                "art": "Bundesweite"
+            }
+        ],
+        "23": [
+            {
+                "name": "Fibonacci-Tag",
+                "beschreibung": "",
+                "ort": "🇺🇸",
+                "art": "National"
+            }
+        ],
+        "24": [
+            {
+                "name": "Walross-Tag",
+                "beschreibung": "",
+                "ort": "🇷🇺",
+                "art": "National"
+            }
+        ],
+        "25": [
+            {
+                "name": "Tag der weißen Schleife",
+                "beschreibung": "",
+                "ort": "🇨🇦",
+                "art": "National"
+            }
+        ],
+        "26": [
+            {
+                "name": "Tag des Kuchens",
+                "beschreibung": "",
+                "ort": "🇺🇸",
+                "art": "National"
+            }
+        ],
+        "27": [
+            {
+                "name": "Tag des Tortenwurfs",
+                "beschreibung": "",
+                "ort": "🇺🇸",
+                "art": "National"
+            }
+        ],
+        "28": [
+            {
+                "name": "Tag des Roten Planeten",
+                "beschreibung": "",
+                "ort": "🇺🇸",
+                "art": "National"
+            }
+        ],
+        "29":[
+            {
+                "name": "Resteessen-Tag",
+                "beschreibung": "",
+                "ort": "🇺🇸",
+                "art": "National"
+            }
+        ],
+        "30": [
+            {
+                "name": "Bleib-Zuhause-weil-es-Dir-gut-geht-Tag",
+                "beschreibung": "",
+                "ort": "🇺🇸",
+                "art": "National"
+            }
+        ]
+
+    },
+
+    "dezember": {
+        "1": [
+            {
+                "name": "Tag des Adventskalenders",
+                "beschreibung": "",
+                "ort": "🇩🇪",
+                "art": "Bundesweite"
+            }
+        ],
+        "2": [
+            {
+                "name": "Tag des Sicherheitsrasierers",
+                "beschreibung": "",
+                "ort": "🇺🇸",
+                "art": "National"
+            }
+        ],
+        "3": [
+            {
+                "name": "Tag der Dominosteine",
+                "beschreibung": "",
+                "ort": "🇩🇪",
+                "art": "Bundesweite"
+            }
+        ],
+        "4": [
+            {
+                "name": "Plätzchen-Tag",
+                "beschreibung": "",
+                "ort": "🇺🇸",
+                "art": "National"
+            }
+        ],
+        "5": [
+            {
+                "name": "Badewannen-Party-Tag",
+                "beschreibung": "",
+                "ort": "🇺🇸",
+                "art": "National"
+            }
+        ],
+        "6": [
+            {
+                "name": "Tag der Mikrowelle",
+                "beschreibung": "",
+                "ort": "🇺🇸",
+                "art": "National"
+            }
+        ],
+        "7": [
+            {
+                "name": "Tag der Weihnachtskrippe",
+                "beschreibung": "",
+                "ort": "🇩🇪",
+                "art": "Bundesweite"
+            }
+        ],
+        "8": [
+            {
+                "name": "Tag des Brownies",
+                "beschreibung": "",
+                "ort": "🇺🇸",
+                "art": "National"
+            }
+        ],
+        "9": [
+            {
+                "name": "Tag der Weihnachtskarte",
+                "beschreibung": "",
+                "ort": "🇺🇸",
+                "art": "National"
+            }
+        ],
+        "10": [
+            {
+                "name": "Tag des Lagerbiers",
+                "beschreibung": "",
+                "ort": "🇺🇸",
+                "art": "National"
+            }
+        ],
+        "11": [
+            {
+                "name": "Tango-Tag",
+                "beschreibung": "",
+                "ort": "🇦🇷",
+                "art": "National"
+            }
+        ],
+        "12": [
+            {
+                "name": "Lebkuchenhaus-Tag",
+                "beschreibung": "",
+                "ort": "🇺🇸",
+                "art": "National"
+            }
+        ],
+        "13": [
+            {
+                "name": "Tag des heißen Kakaos",
+                "beschreibung": "",
+                "ort": "🇺🇸",
+                "art": "National"
+            }
+        ],
+        "14": [
+            {
+                "name": "Affentag",
+                "beschreibung": "",
+                "ort": "🌍",
+                "art": "International"
+            }
+        ],
+        "15": [
+            {
+                "name": "Tag des Weihnachtsbaums aus Büchern",
+                "beschreibung": "",
+                "ort": "🇩🇪",
+                "art": "Bundesweite"
+            }
+        ],
+        "16": [
+            {
+                "name": "Bundesweiter Tag des Tannenzapfens",
+                "beschreibung": "",
+                "ort": "🇩🇪",
+                "art": "Bundesweite"
+            }
+        ],
+        "17": [
+            {
+                "name": "Tag der Ausstechförmchen",
+                "beschreibung": "",
+                "ort": "🇺🇸",
+                "art": "National"
+            }
+        ],
+        "18": [
+            {
+                "name": "Back-Plätzchen-Tag",
+                "beschreibung": "",
+                "ort": "🇺🇸",
+                "art": "National"
+            }
+        ],
+        "19": [
+            {
+                "name": "Such-einen-Weihnachtsbaum-Tag",
+                "beschreibung": "",
+                "ort": "🇺🇸",
+                "art": "National"
+            }
+        ],
+        "20": [
+            {
+                "name": "Sangria-Tag in den Vereinigten Staaten",
+                "beschreibung": "",
+                "ort": "🇺🇸",
+                "art": "National"
+            }
+        ],
+        "21": [
+            {
+                "name": "Nicht-das-Bett-machen-müssen-Tag",
+                "beschreibung": "",
+                "ort": "🇺🇸",
+                "art": "National"
+            }
+        ],
+        "22": [
+            {
+                "name": "Plätzchen-Tausch-Tag",
+                "beschreibung": "",
+                "ort": "🇺🇸",
+                "art": "National"
+            }
+        ],
+        "23": [
+            {
+                "name": "Festivus",
+                "beschreibung": "",
+                "ort": "🇺🇸",
+                "art": "National"
+            }
+        ],
+        "24": [
+            {
+                "name": "Tag des Eierlikörs",
+                "beschreibung": "",
+                "ort": "🇺🇸",
+                "art": "National"
+            }
+        ],
+        "25": [
+            {
+                "name": "Der Tag ohne L",
+                "beschreibung": "",
+                "ort": "🇺🇸",
+                "art": "National"
+            }
+        ],
+        "26": [
+            {
+                "name": "Tag der Jammerlappen",
+                "beschreibung": "",
+                "ort": "🇺🇸",
+                "art": "National"
+            }
+        ],
+        "27": [
+            {
+                "name": "Mach-einen-Zoobesuch-Tag",
+                "beschreibung": "",
+                "ort": "🇺🇸",
+                "art": "National"
+            }
+        ],
+        "28": [
+            {
+                "name": "Tag des Rühreis",
+                "beschreibung": "",
+                "ort": "🇩🇪",
+                "art": "Bundesweite"
+            }
+        ],
+        "29":[
+            {
+                "name": "Ab-auf-die-Waage-Tag",
+                "beschreibung": "",
+                "ort": "🇺🇸",
+                "art": "National"
+            }
+        ],
+        "30": [
+            {
+                "name": "Tag der großen Veränderungen in letzter Minute",
+                "beschreibung": "",
+                "ort": "🇺🇸",
+                "art": "National"
+            }
+        ],
+        "31": [
+            {
+                "name": "Entscheide-Dich-endlich-Tag",
+                "beschreibung": "",
+                "ort": "🇺🇸",
+                "art": "National"
+            }
+        ]
+
+    }
+
+}
