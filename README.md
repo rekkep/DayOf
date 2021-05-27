@@ -1,11 +1,18 @@
-# DayOf
-Day Of ist ein Widget welches eine Auswahl an besonderen Tage anzeigt.
 
-# Features
-Zeit aktuelles Datum, Sternzeichen, Ort und Name des "Feiertages" an.
-Für eine Handvoll an Tagen gibt es schone eine Beschreibung, die anderen sind noch in Arbeit.
 
-![IMG_1018](https://user-images.githubusercontent.com/52372226/119840731-87dbc200-bf05-11eb-927a-9e823d44d09b.jpeg)
+# Day Of
+Day Of ist ein widget für scriptable. Zur zeit zeigt dieses widget folgende Informationen über den jetztigen Tag an:
+
+- Aktuelles Datum
+- Sternzeichen
+- Ort und Name des "Feiertages"
+  - Für eine Handvoll an Tagen gibt es schone eine Beschreibung, die anderen sind noch in Arbeit.
+
+![IMG_1023](https://user-images.githubusercontent.com/52372226/119856999-78637580-bf13-11eb-932f-3e1c7baad808.jpeg)
+
+Wenn alle Beschreibungen hinzugefügt worden sind, ist es **nicht** notwendig das script upzudaten. Falls es einmal notwendig werden sollte, dann wird es im Widget angezeit:
+
+![IMG_1021](https://user-images.githubusercontent.com/52372226/119857446-dd1ed000-bf13-11eb-822f-ee10b6c4619f.jpeg)
 
 
 # Installation
@@ -21,7 +28,19 @@ Ein neues **medium oder large** widget erstellen und "Day Of" auswählen:
 
 ![IMG_1019](https://user-images.githubusercontent.com/52372226/119841676-4e578680-bf06-11eb-98b2-a01cf90a6897.jpeg)
 
-# Feetback
-Da ich noch nicht so viel Erfahrung mit scriptable habe, gibt es gewiss noch einigie Fehler und Verbessungs möglichkeiten. Daher freue ich mich sehr über Verbessungsideen sowie notwendige Optimierungen.
-Ich werde weiter an dem Widget arbeiten und es nach und nach verbessern und vor allem vervollständigen. Da die Infos über die "Feiertage" von einem JSON kommen, sollten die Beschreibungen oder neue Tage automatisch Übernommen werden.
-Falls es notwendig wird den Code zu aktualisieren, dann sollte dies im widget stehen.
+# To do list
+Ich werde weiterhin an dem Widget arbeiten. An folgende Punkte arbeite ich bereits dran bzw. habe es in der Zukunft vor:
+
+- [ ] Alle Beschreibungen hinzufügen
+- [ ] Einheitliche/Schönere Formatierung
+  - [ ] Nutzung vom kleinen Widget
+- [ ] Freie Tage markieren
+- [ ] In die englische Sprache übersetzen
+
+Mit jeder neuen Version werde ich diese Liste Updaten und bei neuen Ideen verlängern.
+
+
+# Feedback 
+Da ich noch nicht so viel Erfahrung mit scriptable habe, gibt es gewiss noch einigie Fehler und Verbessungspotential. Daher freue ich mich sehr über Feedback zur Verbesserung sowie notwendige Optimierungen.
+
+
