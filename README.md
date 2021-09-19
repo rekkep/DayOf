@@ -28,16 +28,8 @@ Ein neues **medium oder large** widget erstellen und "Day Of" auswählen:
 
 ![IMG_1019](https://user-images.githubusercontent.com/52372226/119841676-4e578680-bf06-11eb-98b2-a01cf90a6897.jpeg)
 
-# To do list
-Ich werde weiterhin an dem Widget arbeiten. An folgende Punkte arbeite ich bereits dran bzw. habe es in der Zukunft vor:
 
-- [ ] Alle Beschreibungen hinzufügen
-- [ ] Einheitliche/Schönere Formatierung
-  - [ ] Nutzung vom kleinen Widget
-- [ ] Freie Tage markieren
-- [ ] In die englische Sprache übersetzen
 
-Mit jeder neuen Version werde ich diese Liste Updaten und bei neuen Ideen verlängern.
 
 
 # Feedback 
